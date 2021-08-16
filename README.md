@@ -15,7 +15,7 @@ To install dependencies, run the following:
 npm i + node server
 `
 ## Usage
-Here is a walkthrough video so you can see the repo in action! 
+Here is a walkthrough video so you can see the repo in action! https://drive.google.com/file/d/1lhhihvfA1AYlyvtsxH5Gu97khCd8m9AW/view
 ## License
 This repository is licensed under the Unlicense license.
 ## Contributing
