@@ -1,27 +1,30 @@
 {
-    "name": "Employee-Tracker-",
-    "version": "1.0.0",
-    "description": "Mysql Employee Tracker",
-    "main": "server.js",
-    "dependencies": {
-      "console.table": "^0.10.0",
-      "inquirer": "^7.3.3",
-      "mysql": "github:mysqljs/mysql"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/AlfonsoCerv7/Employee-Tracker-.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/AlfonsoCerv7/Employee-Tracker/issues"
-    },
-    "homepage": "https://github.com/AlfonsoCerv7/Employee-Tracker#readme"
-  }
+  "name": "Employee-Tracker-",
+  "version": "1.0.0",
+  "description": "Mysql Employee Tracker",
+  "main": "server.js",
+  "dependencies": {
+    "console": "^0.7.2",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "github:mysqljs/mysql",
+    "mysql2": "^2.3.0",
+    "table": "^6.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfonsoCerv7/Employee-Tracker-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfonsoCerv7/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/AlfonsoCerv7/Employee-Tracker#readme"
+}
