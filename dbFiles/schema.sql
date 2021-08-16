@@ -21,7 +21,6 @@ CREATE TABLE department
         (department_id) REFERENCES department
         (id) ON
         DELETE CASCADE
-       
 );
 
         -- create table for EMPLOYEES
